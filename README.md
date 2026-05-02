@@ -22,7 +22,7 @@
 
 1. 打开 Tampermonkey。
 2. 新建脚本。
-3. 将 `export-span-text.user.js` 的内容复制进去。
+3. 将 ` Export CAS Pro Task.js` 的内容复制进去。
 4. 保存脚本。
 5. 刷新目标网页。
 
